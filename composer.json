@@ -1,0 +1,15 @@
+{
+  "name": "luanfreitasdev/livewire-datatable",
+  "description": "We are now Powergrid",
+  "homepage": "https://github.com/luanfreitasdev/livewire-datatable",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "Luan Freitas",
+      "email": "luanfreitasgoncalves@gmail.com",
+      "role": "Developer"
+    }
+  ]
+}
